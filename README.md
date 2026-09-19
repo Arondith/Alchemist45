@@ -1,5 +1,9 @@
 # Alchemists & Architects
 
+## Project Preview
+
+![Alchemists & Architects salon website preview](https://d2jqrm6oza8nb6.cloudfront.net/datasets/828a066d-47a9-4afa-bf35-ca7ed65f0c3d.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYzM1YWE0ODQyYzZjNDE0NyIsImJ1Y2tldCI6InJ1bndheS1kYXRhc2V0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc4OTk0ODY3Nn0.XzRxFcue27bJjNRllloCJa7eW6uLZ-wjg82ug11D54w)
+
 ## About
 
 A successfully delivered **production website for an international client**, **Alchemists & Architects**, a Seattle-based luxury salon. The project was developed to give the business a polished online presence that communicates its brand, showcases hair, beauty, and wellness services, and makes it easy for customers to move from discovery to booking.
